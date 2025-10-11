@@ -1,7 +1,7 @@
 # Why Do AI Agents Need Android Runtime on Real Devices?
 Date: 26 Jun 2025
 
-Auther: [Bazinga Wang](https://github.com/Bazinga-Wang)
+Author: [Bazinga Wang](https://github.com/Bazinga-Wang)
 
 ![image](https://github.com/user-attachments/assets/5abca4aa-e374-4813-abad-f88ce8070bc1)
 
