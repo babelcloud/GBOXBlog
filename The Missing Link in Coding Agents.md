@@ -1,7 +1,7 @@
 # Self-Test Feedback: The Missing Link in Coding Agents
 Date: 21 Jul 2025
 
-Auther:[ZhenWei](https://github.com/zhenweiwang1990)
+Author: [ZhenWei](https://github.com/zhenweiwang1990)
 
 
 ![image](https://github.com/user-attachments/assets/6111703e-c236-41c2-a48f-11570941d541)
