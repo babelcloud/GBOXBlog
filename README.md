@@ -1,5 +1,7 @@
 # GBOX Blog
 
+![image](https://github.com/user-attachments/assets/7964d138-f042-482b-8d0e-c99f13bd17b6)
+
 Welcome to the official GBOX Blog repository! Here you'll find technical articles, product updates, and insights from our team.
 
 ## 📚 Blog Index
