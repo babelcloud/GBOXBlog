@@ -1,6 +1,6 @@
 # From Vision to Action — Towards General-Purpose GUI Agents
 
-![GBOX Computer Use Agent Overview](image-1.png)
+![GBOX Computer Use Agent Overview](assets/image-1.png)
 
 ## The Gap Between Automation and True Agency
 
@@ -18,7 +18,7 @@ The GBOX agent demonstrates SOTA performance by adopting a pure-vision approach.
 
 GBOX uses the Claude Agent SDK to manage complete task processes, including navigating websites, entering text, clicking elements, scrolling, and analyzing visual feedback to accomplish complex automation tasks. As shown in the architecture below, the Benchmark Runner supplies the agent with a task and an environment, which the agent then acts upon using the vision-powered GBOX MCP server.
 
-![GBOX Agent Architecture](image.png)
+![GBOX Agent Architecture](assets/image.png)
 
 Agents are able to use [GBOX MCP](https://github.com/babelcloud/gbox-mcp-server/tree/main) to describe its target using vision-based recognition. The MCP exposes a comprehensive suite of control primitives for precise interaction:
 
