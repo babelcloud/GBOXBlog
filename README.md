@@ -6,6 +6,9 @@ Welcome to the official GBOX Blog repository! Here you'll find technical article
 
 ## 📚 Blog Index
 
+Nov 2025
+- [From Vision to Action — Towards General-Purpose GUI Agents](https://github.com/babelcloud/GBOXBlog/blob/main/From_Vision_to_Action.md)
+
 Oct 2025
 - [GBOX Achieves #1 Spot Among Pure Vision Agents on AndroidWorld
 ](https://github.com/babelcloud/GBOXBlog/blob/main/GBOX-Achieves-%231-Spot-Among-Pure-Vision-Agents-on-AndroidWorld.md)
